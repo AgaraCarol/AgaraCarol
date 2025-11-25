@@ -49,6 +49,7 @@ Aplicação React para gerenciamento de produtos com operações CRUD completas.
 Jogo interativo desenvolvido para prática de lógica de programação e manipulação de estados.
 - **Tecnologias:** React, JavaScript, CSS
 - **Destaques:** Gerenciamento de estado complexo, validações em tempo real
+- **Link de acesso Web:** https://agaracarol.github.io/secret-word-game/
 
 ### [Estudos React](https://github.com/AgaraCarol/projeto-react-estudo)
 Repositório com diversos projetos e exercícios desenvolvidos durante minha jornada de aprendizado.
