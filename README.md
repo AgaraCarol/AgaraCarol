@@ -2,7 +2,7 @@
 
 # Ana Caroline Alves
 
-Desenvolvedora Frontend em Formação
+Desenvolvedora Frontend em Formação!
 
 [![Gmail](https://img.shields.io/badge/-anacarolinedacruzalves@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:anacarolinedacruzalves@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
