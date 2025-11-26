@@ -40,10 +40,11 @@ Em constante evolução, busco criar soluções digitais que unem funcionalidade
 
 ## 💼 Projetos
 
-### [HTTP React - Sistema CRUD](https://github.com/AgaraCarol/httpreact)
-Aplicação React para gerenciamento de produtos com operações CRUD completas.
-- **Tecnologias:** React, JavaScript, JSON Server
-- **Funcionalidades:** Listagem, criação, edição e exclusão de produtos
+### HTTP React - Sistema CRUD
+Aplicação web moderna desenvolvida em React para gerenciamento completo de produtos com operações CRUD (Create, Read, Update, Delete).
+Tecnologias: React 19, JavaScript ES6+, JSON Server, CSS3, Google Fonts (Inter), GitHub Pages
+Funcionalidades: Listagem dinâmica de produtos em tempo real, cadastro e exclusão de produtos, estados de loading e tratamento de erros, interface responsiva com animações fluidas, Custom Hooks para requisições HTTP, design profissional com gradiente azul
+Link: https://agaracarol.github.io/httpreact
 
 ### [Jogo de Palavras Secretas](https://github.com/AgaraCarol/jogo-de-palavras-secretas)
 Jogo interativo desenvolvido para prática de lógica de programação e manipulação de estados.
