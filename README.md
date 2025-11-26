@@ -1,8 +1,7 @@
 <div align="center">
 
 # Ana Caroline Alves
-
-Desenvolvedora Frontend em Formação!
+### Desenvolvedora Frontend em Formação!
 
 [![Gmail](https://img.shields.io/badge/-anacarolinedacruzalves@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:anacarolinedacruzalves@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
@@ -11,7 +10,6 @@ Desenvolvedora Frontend em Formação!
 </div>
 
 ---
-
 
 ## 👩‍💻 Sobre
 
@@ -23,6 +21,8 @@ Em constante evolução, busco criar soluções digitais que unem funcionalidade
 **Formação:** Análise e Desenvolvimento de Sistemas  
 **Posição Atual:** Estagiária Frontend | Codie  
 **Especialização:** React.js, JavaScript, HTML5, CSS3
+
+---
 
 ## 🎯 Competências Técnicas
 
@@ -38,22 +38,34 @@ Em constante evolução, busco criar soluções digitais que unem funcionalidade
 - Create React App
 - Desenvolvimento Responsivo
 
+---
+
 ## 💼 Projetos
 
-### HTTP React - Sistema CRUD
+### 🔷 HTTP React - Sistema CRUD
+
 Aplicação web moderna desenvolvida em React para gerenciamento completo de produtos com operações CRUD (Create, Read, Update, Delete).
-Tecnologias: React 19, JavaScript ES6+, JSON Server, CSS3, Google Fonts (Inter), GitHub Pages
-Funcionalidades: Listagem dinâmica de produtos em tempo real, cadastro e exclusão de produtos, estados de loading e tratamento de erros, interface responsiva com animações fluidas, Custom Hooks para requisições HTTP, design profissional com gradiente azul
-Link: https://agaracarol.github.io/httpreact
 
-### [Jogo de Palavras Secretas](https://github.com/AgaraCarol/jogo-de-palavras-secretas)
-Jogo interativo desenvolvido para prática de lógica de programação e manipulação de estados.
-- **Tecnologias:** React, JavaScript, CSS
-- **Destaques:** Gerenciamento de estado complexo, validações em tempo real
-- **Link de acesso Web:** https://agaracarol.github.io/secret-word-game/
+**Tecnologias:** React 19, JavaScript ES6+, JSON Server, CSS3, Google Fonts (Inter), GitHub Pages
 
-### [Estudos React](https://github.com/AgaraCarol/projeto-react-estudo)
-Repositório com diversos projetos e exercícios desenvolvidos durante minha jornada de aprendizado.
+**Funcionalidades:** Listagem dinâmica de produtos em tempo real, cadastro e exclusão de produtos, estados de loading e tratamento de erros, interface responsiva com animações fluidas, Custom Hooks para requisições HTTP, design profissional com gradiente azul
+
+**🔗 Link:** [Ver aplicação](https://agaracarol.github.io/httpreact)
+
+---
+
+### 🔷 Jogo de Palavras Secretas
+
+Jogo interativo desenvolvido para prática de lógica de programação e manipulação de estados no React.
+
+**Tecnologias:** React, JavaScript ES6+, CSS3, React Hooks
+
+**Destaques:** Sistema de pontuação dinâmica, gerenciamento de estado complexo com múltiplas fases, validações em tempo real de letras e palavras, interface interativa e responsiva, feedback visual imediato, escolha aleatória de palavras por categoria
+
+**🔗 Link:** [Jogar agora](https://agaracarol.github.io/secret-word-game/)
+
+---
+
 
 ## 📚 Aprendizado Contínuo
 
@@ -62,6 +74,8 @@ Atualmente focada em:
 - Boas práticas de desenvolvimento frontend
 - Integração com APIs e gerenciamento de dados
 - Design responsivo e acessibilidade
+
+---
 
 ## 📫 Contato
 
@@ -74,7 +88,7 @@ Estou aberta a oportunidades, colaborações e networking na área de tecnologia
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AgaraCarol&color=9370DB&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AgaraCarol&color=1e3c72&style=flat-square)
 
 *"Da análise laboratorial aos algoritmos - sempre em busca de precisão e excelência."*
 
