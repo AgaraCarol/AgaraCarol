@@ -102,21 +102,6 @@ const anaCaroline = {
 <br>
 
 
-</details> **CodieDigital**
-
-</div>
-
-<details>
-<summary>📅 <b>Janeiro 2026</b> - 15 commits em 2 repositórios</summary>
-<br>
-
-
-</details>
-
-<details>
-<summary>📅 <b>Dezembro 2025</b> - 18 commits em 6 repositórios</summary>
-<br>
-
 
 
 </details>
