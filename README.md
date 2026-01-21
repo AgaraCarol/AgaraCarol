@@ -94,8 +94,6 @@ const anaCaroline = {
 <summary>📅 <b>Janeiro 2026</b> - 15 commits em 2 repositórios</summary>
 <br>
 
-- 🔹 **codie-tech/amazity-site** - 8 commits
-- 🔹 **AgaraCarol/AgaraCarol** - 7 commits
 
 </details>
 
@@ -103,11 +101,6 @@ const anaCaroline = {
 <summary>📅 <b>Dezembro 2025</b> - 18 commits em 5 repositórios</summary>
 <br>
 
-- 🔹 **codie-tech/seller-panel** - 5 commits
-- 🔹 **codie-tech/sapiens-site** - 3 commits
-- 🔹 **CodieDigital/artefatos-gaspar** - 2 commits
-- 🔹 **CodieDigital/saia-do-obvio** - 5 commits
-- 🔹 **CodieDigital/altacable** - 2 commits
 
 </details> **CodieDigital**
 
@@ -117,8 +110,6 @@ const anaCaroline = {
 <summary>📅 <b>Janeiro 2026</b> - 15 commits em 2 repositórios</summary>
 <br>
 
-- 🔹 **codie-tech/amazity-site** - 8 commits
-- 🔹 **AgaraCarol/AgaraCarol** - 7 commits
 
 </details>
 
@@ -126,12 +117,7 @@ const anaCaroline = {
 <summary>📅 <b>Dezembro 2025</b> - 18 commits em 6 repositórios</summary>
 <br>
 
-- 🔹 **CodieDigital/saia-do-obvio** - 5 commits
-- 🔹 **codie-tech/seller-panel** - 5 commits
-- 🔹 **codie-tech/sapiens-site** - 3 commits
-- 🔹 **CodieDigital/artefatos-gaspar** - 2 commits
-- 🔹 **CodieDigital/altacable** - 2 commits
-- 🔹 **AgaraCarol/async-codeworks** - 1 commit
+
 
 </details>
 
@@ -214,15 +200,6 @@ mindmap
 
 ##
 
-<div align="center">
-  
-### 🏆 Conquistas
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=AgaraCarol&theme=react&no-frame=true&no-bg=false&row=1&column=7)
-
-</div>
-
-##
 
 <div align="center">
 
