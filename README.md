@@ -15,7 +15,6 @@
 🎓 **Graduanda** em Análise e Desenvolvimento de Sistemas  
 💼 **Estagiária Frontend** na Codie  
 📍 **Londrina, Paraná**  
-🔬 **Background**: Técnica em Análises Clínicas  
 💡 **Paixão**: Criar soluções digitais que unem funcionalidade e design  
 🎯 **Foco atual**: Desenvolvimento com TypeScript, React e Next.js
 
@@ -63,62 +62,19 @@ const anaCaroline = {
 
 ##
 
-### 💼 Projetos em Destaque
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">HTTP React - Sistema CRUD</h3>
-
-<div align="center">  
-<a href="https://agaracarol.github.io/httpreact" target="_blank"><img src="https://img.shields.io/badge/VER%20PROJETO-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Projeto"/></a>
-<a href="https://github.com/AgaraCarol/httpreact" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/></a>
-  
-<p><strong>React, JavaScript ES6+, JSON Server</strong></p>
-
-<p>Aplicação web moderna para gerenciamento completo de produtos com operações CRUD. Interface responsiva com animações fluidas e Custom Hooks para requisições HTTP.</p>
-
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">Jogo de Palavras Secretas</h3>
-
-<div align="center">
-<a href="https://agaracarol.github.io/secret-word-game/" target="_blank"><img src="https://img.shields.io/badge/JOGAR%20AGORA-10B981?style=for-the-badge&logo=game&logoColor=white" alt="Jogar"/></a>
-<a href="https://github.com/AgaraCarol/secret-word-game" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/></a>
-
-<p><strong>React, JavaScript ES6+, React Hooks</strong></p>
-
-<p>Jogo interativo desenvolvido para prática de lógica. Sistema de pontuação dinâmica, gerenciamento de estado complexo com múltiplas fases e validações em tempo real.</p>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-##
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgaraCarol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgaraCarol&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgaraCarol&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=16&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgaraCarol&layout=compact&langs_count=7&theme=react&border_radius=16&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AgaraCarol&theme=tokyonight&hide_border=true&background=0d1117&border_radius=10" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AgaraCarol&theme=react&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=c9d1d9&sideLabels=70a5fd&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=70a5fd&border_radius=16" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AgaraCarol&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&radius=10" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AgaraCarol&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&radius=16" />
 </div>
 
 ##
@@ -178,19 +134,10 @@ mindmap
 
 ### 💭 Citação
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true" alt="Random Dev Quote"/>
 
 </div>
 
-##
-
-<div align="center">
-  
-### 🏆 Conquistas
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=AgaraCarol&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
 
 ##
 
