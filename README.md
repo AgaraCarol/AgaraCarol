@@ -16,24 +16,27 @@
 💼 **Estagiária Frontend** na Codie  
 📍 **Londrina, Paraná**  
 🔬 **Background**: Técnica em Análises Clínicas  
-💡 **Paixão**: Criar soluções digitais que unem funcionalidade e design
+💡 **Paixão**: Criar soluções digitais que unem funcionalidade e design  
+🎯 **Foco atual**: Desenvolvimento com TypeScript, React e Next.js
 
-```javascript
+```typescript
 const anaCaroline = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  code: ["TypeScript", "JavaScript", "HTML", "CSS"],
   technologies: {
     frontEnd: {
-      js: ["React", "React Hooks"],
-      css: ["Tailwind", "Styled Components"]
+      js: ["React", "React Hooks", "Next.js"],
+      ts: ["TypeScript"],
+      css: ["Tailwind CSS", "Styled Components", "CSS3"]
     },
     backEnd: {
       js: ["Node.js"],
       databases: ["JSON Server", "MongoDB"]
     },
-    tools: ["Git", "GitHub", "VS Code", "Figma"]
+    tools: ["Git", "GitHub", "VS Code", "Figma", "NPM/Yarn"]
   },
-  currentFocus: "Aprofundamento em React e seu ecossistema",
-  learningNext: ["Next.js", "TypeScript", "Redux"]
+  currentFocus: "Desenvolvimento com TypeScript e React",
+  workingOn: ["E-commerce platforms", "Landing pages", "Web applications"],
+  learningNext: ["Advanced TypeScript patterns", "Testing (Jest/RTL)", "CI/CD"]
 };
 ```
 
@@ -45,11 +48,13 @@ const anaCaroline = {
 
 <div align="center">
 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -126,12 +131,22 @@ const anaCaroline = {
 mindmap
   root((Ana Caroline))
     Frontend
+      TypeScript
+        Type Safety
+        Advanced Patterns
+        Interfaces & Types
       React Avançado
         Custom Hooks
         Context API
         Performance
       Next.js
-      TypeScript
+        SSR/SSG
+        App Router
+        API Routes
+    Styling
+      Tailwind CSS
+      CSS Modules
+      Responsive Design
     Backend
       Node.js
       APIs REST
@@ -140,6 +155,7 @@ mindmap
       Trabalho em Equipe
       Comunicação
       Resolução de Problemas
+      Adaptabilidade
 ```
 
 </div>
