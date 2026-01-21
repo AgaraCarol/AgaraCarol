@@ -112,6 +112,7 @@ const anaCaroline = {
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#1a1b27', 'primaryTextColor':'#fff', 'primaryBorderColor':'#70a5fd', 'lineColor':'#bf91f3', 'secondaryColor':'#2d3748', 'tertiaryColor':'#1a1b27', 'noteBkgColor':'#2d3748', 'noteTextColor':'#fff'}}}%%
 mindmap
   root((Ana Caroline))
     Frontend
@@ -146,6 +147,22 @@ mindmap
 
 ##
 
+### 📈 Gráfico de Contribuições
+
+<div align="center">
+
+![](https://github.com/AgaraCarol/AgaraCarol/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br>
+
+**Total de contribuições em 2025: 75+**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgaraCarol&theme=github_dark" width="90%"/>
+
+</div>
+
+##
+
 ### 📫 Vamos nos conectar?
 
 <div align="center">
@@ -158,8 +175,25 @@ mindmap
 
 ##
 
+<div align="center">
 
+### 💭 Citação
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true" alt="Random Dev Quote"/>
+
+</div>
+
+##
+
+<div align="center">
+  
+### 🏆 Conquistas
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AgaraCarol&theme=react&no-frame=true&no-bg=false&row=1&column=7)
+
+</div>
+
+##
 
 <div align="center">
 
@@ -175,7 +209,7 @@ mindmap
 
 <div align="center">
 
-
+### ✨ *"Da análise laboratorial aos algoritmos - sempre em busca de precisão e excelência."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer)
 
