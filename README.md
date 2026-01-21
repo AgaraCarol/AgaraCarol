@@ -73,18 +73,6 @@ const anaCaroline = {
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AgaraCarol&theme=react&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=c9d1d9&sideLabels=70a5fd&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=70a5fd&border_radius=16" />
 </div>
 
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AgaraCarol&custom_title=Histórico%20de%20Contribuições&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area_color=bf91f3&area=true&hide_border=true&radius=16)
-
-</div>
-
-<div align="center">
-  
-[![Ana Caroline's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgaraCarol&theme=react-dark&custom_title=Atividade%20dos%20Últimos%20Meses&height=300&days=90&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/AgaraCarol)
-
-</div>
-
 ##
 
 ### 🎯 Aprendizado Contínuo
