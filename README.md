@@ -157,7 +157,7 @@ mindmap
 
 **Total de contribuições em 2025: 75+**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgaraCarol&theme=github_dark" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgaraCarol&theme=react" width="90%"/>
 
 </div>
 
