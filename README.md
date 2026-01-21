@@ -1,1 +1,171 @@
-<div align="center"># Ana Caroline AlvesDesenvolvedora Frontend em Formação!### Desenvolvedora Frontend em Formação![![Gmail](https://img.shields.io/badge/-anacarolinedacruzalves@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:anacarolinedacruzalves@gmail.com)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)@@ -12,7 +11,6 @@ Desenvolvedora Frontend em Formação!---## 👩‍💻 SobreGraduanda em Análise e Desenvolvimento de Sistemas, 23 anos, apaixonada por tecnologia e desenvolvimento web. Atualmente estagiária frontend na Codie, onde aplico e aprendo diariamente sobre React, JavaScript e boas práticas de programação.@@ -24,6 +22,8 @@ Em constante evolução, busco criar soluções digitais que unem funcionalidade**Posição Atual:** Estagiária Frontend | Codie  **Especialização:** React.js, JavaScript, HTML5, CSS3---## 🎯 Competências Técnicas**Frontend Development**@@ -38,22 +38,34 @@ Em constante evolução, busco criar soluções digitais que unem funcionalidade- Create React App- Desenvolvimento Responsivo---## 💼 Projetos### HTTP React - Sistema CRUD### 🔷 HTTP React - Sistema CRUDAplicação web moderna desenvolvida em React para gerenciamento completo de produtos com operações CRUD (Create, Read, Update, Delete).Tecnologias: React 19, JavaScript ES6+, JSON Server, CSS3, Google Fonts (Inter), GitHub PagesFuncionalidades: Listagem dinâmica de produtos em tempo real, cadastro e exclusão de produtos, estados de loading e tratamento de erros, interface responsiva com animações fluidas, Custom Hooks para requisições HTTP, design profissional com gradiente azulLink: https://agaracarol.github.io/httpreact### [Jogo de Palavras Secretas](https://github.com/AgaraCarol/jogo-de-palavras-secretas)Jogo interativo desenvolvido para prática de lógica de programação e manipulação de estados.- **Tecnologias:** React, JavaScript, CSS- **Destaques:** Gerenciamento de estado complexo, validações em tempo real- **Link de acesso Web:** https://agaracarol.github.io/secret-word-game/**Tecnologias:** React 19, JavaScript ES6+, JSON Server, CSS3, Google Fonts (Inter), GitHub Pages**Funcionalidades:** Listagem dinâmica de produtos em tempo real, cadastro e exclusão de produtos, estados de loading e tratamento de erros, interface responsiva com animações fluidas, Custom Hooks para requisições HTTP, design profissional com gradiente azul**🔗 Link:** [Ver aplicação](https://agaracarol.github.io/httpreact)---### 🔷 Jogo de Palavras SecretasJogo interativo desenvolvido para prática de lógica de programação e manipulação de estados no React.**Tecnologias:** React, JavaScript ES6+, CSS3, React Hooks**Destaques:** Sistema de pontuação dinâmica, gerenciamento de estado complexo com múltiplas fases, validações em tempo real de letras e palavras, interface interativa e responsiva, feedback visual imediato, escolha aleatória de palavras por categoria**🔗 Link:** [Jogar agora](https://agaracarol.github.io/secret-word-game/)---### [Estudos React](https://github.com/AgaraCarol/projeto-react-estudo)Repositório com diversos projetos e exercícios desenvolvidos durante minha jornada de aprendizado.## 📚 Aprendizado Contínuo@@ -63,6 +75,8 @@ Atualmente focada em:- Integração com APIs e gerenciamento de dados- Design responsivo e acessibilidade---## 📫 ContatoEstou aberta a oportunidades, colaborações e networking na área de tecnologia.@@ -74,7 +88,7 @@ Estou aberta a oportunidades, colaborações e networking na área de tecnologia<div align="center">![Profile Views](https://komarev.com/ghpvc/?username=AgaraCarol&color=9370DB&style=flat-square)![Profile Views](https://komarev.com/ghpvc/?username=AgaraCarol&color=1e3c72&style=flat-square)*"Da análise laboratorial aos algoritmos - sempre em busca de precisão e excelência."*
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=Ana%20Caroline%20Alves&fontSize=70&fontAlignY=40&desc=Desenvolvedora%20Frontend&descAlignY=55&descSize=20&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Transformando+ideias+em+c%C3%B3digo;Da+an%C3%A1lise+laboratorial+aos+algoritmos;Criando+experi%C3%AAncias+digitais+incr%C3%ADveis)](https://git.io/typing-svg)
+
+</div>
+
+##
+
+<img align="right" alt="Developer vector" height="280" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRtdjJkaXV3d3I4ZzNrdGhnNXJ0a2VzemV2bjlwOXBlbGhrbzU5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
+
+### 👋 Sobre mim
+
+🎓 **Graduanda** em Análise e Desenvolvimento de Sistemas  
+💼 **Estagiária Frontend** na Codie  
+📍 **Londrina, Paraná**  
+💡 **Paixão**: Criar soluções digitais que unem funcionalidade e design  
+🎯 **Foco atual**: Desenvolvimento com TypeScript, React e Next.js
+
+```typescript
+const anaCaroline = {
+  code: ["TypeScript", "JavaScript", "HTML", "CSS"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "React Hooks", "Next.js"],
+      ts: ["TypeScript"],
+      css: ["Tailwind CSS", "Styled Components", "CSS3"]
+    },
+    backEnd: {
+      js: ["Node.js"],
+      databases: ["JSON Server", "MongoDB"]
+    },
+    tools: ["Git", "GitHub", "VS Code", "Figma", "NPM/Yarn"]
+  },
+  currentFocus: "Desenvolvimento com TypeScript e React",
+  workingOn: ["E-commerce platforms", "Landing pages", "Web applications"],
+  learningNext: ["Advanced TypeScript patterns", "Testing (Jest/RTL)", "CI/CD"]
+};
+```
+
+<br clear="right"/>
+
+##
+
+### 🚀 Linguagens e Tecnologias
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+##
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgaraCarol&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=16&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgaraCarol&layout=compact&langs_count=7&theme=react&border_radius=16&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AgaraCarol&theme=react&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=c9d1d9&sideLabels=70a5fd&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=70a5fd&border_radius=16" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AgaraCarol&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&radius=16" />
+</div>
+
+##
+
+### 🎯 Aprendizado Contínuo
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Ana Caroline))
+    Frontend
+      TypeScript
+        Type Safety
+        Advanced Patterns
+        Interfaces & Types
+      React Avançado
+        Custom Hooks
+        Context API
+        Performance
+      Next.js
+        SSR/SSG
+        App Router
+        API Routes
+    Styling
+      Tailwind CSS
+      CSS Modules
+      Responsive Design
+    Backend
+      Node.js
+      APIs REST
+      MongoDB
+    Soft Skills
+      Trabalho em Equipe
+      Comunicação
+      Resolução de Problemas
+      Adaptabilidade
+```
+
+</div>
+
+##
+
+### 📫 Vamos nos conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-caroline-alves-65403a218)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacarolinedacruzalves@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgaraCarol)
+
+</div>
+
+##
+
+<div align="center">
+
+### 💭 Citação
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true" alt="Random Dev Quote"/>
+
+</div>
+
+##
+
+<div align="center">
+  
+### 🏆 Conquistas
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AgaraCarol&theme=react&no-frame=true&no-bg=false&row=1&column=7)
+
+</div>
+
+##
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/AgaraCarol/AgaraCarol/output/github-contribution-grid-snake-dark.svg)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AgaraCarol&color=70a5fd&style=for-the-badge&label=VISUALIZAÇÕES)
+
+</div>
+
+##
+
+<div align="center">
+
+### ✨ *"Da análise laboratorial aos algoritmos - sempre em busca de precisão e excelência."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer)
+
+</div>
