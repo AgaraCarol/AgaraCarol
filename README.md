@@ -65,12 +65,19 @@ const anaCaroline = {
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgaraCarol&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=16&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgaraCarol&layout=compact&langs_count=7&theme=react&border_radius=16&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9"/>
+  
+| 📊 GitHub Stats | 🗣️ Linguagens Mais Usadas |
+|:---:|:---:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=AgaraCarol&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=16&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&hide=contribs) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgaraCarol&layout=compact&langs_count=4&theme=react&border_radius=16&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9) |
+
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AgaraCarol&theme=react&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=c9d1d9&sideLabels=70a5fd&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=70a5fd&border_radius=16" />
+  
+**Total de Commits: 38** • **Current Streak: 1 dia** • **Longest Streak: 5 dias**
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AgaraCarol&theme=react&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=c9d1d9&sideLabels=70a5fd&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=70a5fd&border_radius=16)](https://git.io/streak-stats)
+
 </div>
 
 ##
@@ -79,7 +86,30 @@ const anaCaroline = {
 
 <div align="center">
 
-**75 contribuições em 2025** | Trabalhando em projetos da **Codie** e **CodieDigital**
+**51 contribuições totais** | Trabalhando em projetos da **Codie** e **CodieDigital**
+
+</div>
+
+<details>
+<summary>📅 <b>Janeiro 2026</b> - 15 commits em 2 repositórios</summary>
+<br>
+
+- 🔹 **codie-tech/amazity-site** - 8 commits
+- 🔹 **AgaraCarol/AgaraCarol** - 7 commits
+
+</details>
+
+<details>
+<summary>📅 <b>Dezembro 2025</b> - 18 commits em 5 repositórios</summary>
+<br>
+
+- 🔹 **codie-tech/seller-panel** - 5 commits
+- 🔹 **codie-tech/sapiens-site** - 3 commits
+- 🔹 **CodieDigital/artefatos-gaspar** - 2 commits
+- 🔹 **CodieDigital/saia-do-obvio** - 5 commits
+- 🔹 **CodieDigital/altacable** - 2 commits
+
+</details> **CodieDigital**
 
 </div>
 
@@ -168,7 +198,6 @@ mindmap
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-caroline-alves-65403a218)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacarolinedacruzalves@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgaraCarol)
 
 </div>
@@ -214,3 +243,5 @@ mindmap
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer)
 
 </div>
+
+
