@@ -72,13 +72,6 @@ const anaCaroline = {
 
 </div>
 
-<div align="center">
-  
-**Total de Commits: 38** • **Current Streak: 1 dia** • **Longest Streak: 5 dias**
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AgaraCarol&theme=react&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=c9d1d9&sideLabels=70a5fd&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=70a5fd&border_radius=16)](https://git.io/streak-stats)
-
-</div>
 
 ##
 
@@ -90,16 +83,6 @@ const anaCaroline = {
 
 </div>
 
-<details>
-<summary>📅 <b>Janeiro 2026</b> - 15 commits em 2 repositórios</summary>
-<br>
-
-
-</details>
-
-<details>
-<summary>📅 <b>Dezembro 2025</b> - 18 commits em 5 repositórios</summary>
-<br>
 
 
 
